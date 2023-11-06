@@ -12,7 +12,7 @@ function HomePage() {
               <a href="#">Facebook</a>
             </li>
             <li>
-              <a href="#">You tube</a>
+              <a href="#">YouTube</a>
             </li>
             <li>
               <a href="#">LinkedIn</a>
